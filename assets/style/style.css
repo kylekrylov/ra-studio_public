@@ -1121,6 +1121,7 @@ button.swiper-pagination-bullet {
 .banner__slide {
   position: relative;
   width: 100%;
+  background: #f6f6f6;
 }
 
 .banner__slide-img {
